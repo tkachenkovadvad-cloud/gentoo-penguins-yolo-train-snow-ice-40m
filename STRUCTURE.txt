@@ -1,0 +1,11 @@
+gentoo-penguins-yolo-train-snow-ice-40m/
+├── README.md
+├── LICENSE
+├── NOTICE
+├── CITATION.cff
+├── docs/
+│   └── pipeline_design_decisions.md
+├── src/
+├── configs/
+├── examples/
+└── .gitignore

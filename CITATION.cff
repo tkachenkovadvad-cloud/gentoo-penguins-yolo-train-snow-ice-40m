@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "gentoo penguins YOLO training on snow–ice surface (40 m)"
+authors:
+  - family-names: Vadym Tkachenko
+    affiliation: Ukrainian Antarctic Scientific Center (UASC), Bio-Telemetry & Behavioral Ecology Lab (University of California, Santa Cruz)
+version: 1.0.0
+license: Apache-2.0
+abstract: >
+  A reproducible pipeline for automated detection and counting of gentoo
+  penguins in UAV imagery using YOLOv8 and tile-based inference, designed
+  for small-object detection on snow–ice dominated surfaces.
