@@ -46,6 +46,7 @@ The implemented pipeline includes:
 8. Final object counting
 
 A detailed description of all engineering decisions, environment separation, Label Studio integration, and active learning strategy is provided in:
+- [docs/pipeline_design_decisions.md](docs/pipeline_design_decisions.md)
 
 ## Project Status and Outlook
 
@@ -58,3 +59,4 @@ The current annotated dataset (1,048 individuals) is intended as a
 are expected to expand the snow–ice training dataset to approximately
 **10,000 annotated individuals**, enabling further refinement and validation
 of the detection models.
+
