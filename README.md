@@ -55,7 +55,7 @@ See [docs/Ethics & Permits.md](docs/Ethics%20%26%20Permits.md).
 See [docs/Data Availability.md](docs/Data%20Availability.md).
 
 ## Author and affiliation
-Vadym Tkachenko — Ukrainian Antarctic Scientific Center (UASC), Bio-Telemetry & Behavioral Ecology Lab (University of California, Santa Cruz)
+Vadym Tkachenko — National Antarctic Scientific Center of Ukraine (NASC), Bio-Telemetry & Behavioral Ecology Lab (University of California, Santa Cruz)
 
 
 ## Project Status and Outlook
@@ -69,6 +69,7 @@ The current annotated dataset (1,048 individuals) is intended as a
 are expected to expand the snow–ice training dataset to approximately
 **10,000 annotated individuals**, enabling further refinement and validation
 of the detection models.
+
 
 
 
