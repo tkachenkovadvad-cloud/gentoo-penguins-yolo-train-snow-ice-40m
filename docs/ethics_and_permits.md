@@ -13,7 +13,8 @@ Fieldwork was performed under an official permit issued by the
 
 The data were collected during **28 Ukrainian Antarctic Expeditions (UAE)**
 within the institutional framework of the
-**Ukrainian Antarctic Scientific Center (UASC)**.
+**National Antarctic Scientific Center of Ukraine (NASC)**.
 
 All survey activities were non-invasive and conducted in a manner intended
 to minimize disturbance to wildlife and the surrounding environment.
+
