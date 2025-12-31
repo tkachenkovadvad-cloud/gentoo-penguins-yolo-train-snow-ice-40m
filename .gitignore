@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# YOLO / ML outputs
+runs/
+weights/
+checkpoints/
+
+# Data (do NOT commit)
+data/
+datasets/
+images/
+labels/
+tiles/
+uav/
+*.tif
+*.tiff
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.mov
+
+# Temporary files
+tmp/
+temp/
+
+# Local configs
+*.yaml.local
+*.yml.local
