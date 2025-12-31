@@ -48,6 +48,16 @@ The implemented pipeline includes:
 A detailed description of all engineering decisions, environment separation, Label Studio integration, and active learning strategy is provided in:
 - [docs/pipeline_design_decisions.md](docs/pipeline_design_decisions.md)
 
+## Ethics & Permits
+See [docs/Ethics & Permits.md](docs/Ethics%20%26%20Permits.md).
+
+## Data availability
+See [docs/Data Availability.md](docs/Data%20Availability.md).
+
+## Author and affiliation
+Vadym Tkachenko — Ukrainian Antarctic Scientific Center (UASC).
+
+
 ## Project Status and Outlook
 
 This repository represents the **initial stage** of a long-term effort to
@@ -59,4 +69,5 @@ The current annotated dataset (1,048 individuals) is intended as a
 are expected to expand the snow–ice training dataset to approximately
 **10,000 annotated individuals**, enabling further refinement and validation
 of the detection models.
+
 
