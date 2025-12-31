@@ -9,8 +9,7 @@ snow–ice dominated Antarctic environments.
 UAV surveys were conducted using **DJI Air 2S** and **DJI Mavic 2** platforms
 at a nominal flight altitude of approximately **40 m above ground level (AGL)**.
 The imagery was collected during **28 Ukrainian Antarctic Expeditions (UAE)**
-within the institutional framework of the **Ukrainian Antarctic Scientific
-Center (UASC)**.
+within the institutional framework of the **National Antarctic Scientific Center of Ukraine (NASC)**.
 
 All field activities were carried out under an official permit issued by the
 **Ministry of Education and Science of Ukraine** (Permit Series **AP No. 093-23**),
@@ -125,3 +124,4 @@ The primary objective of this work is to establish and validate the detection
 pipeline. Expansion of the snow–ice dataset from approximately 1,000 to
 10,000 annotated individuals is planned as part of ongoing work and is
 expected to further strengthen model performance.
+
