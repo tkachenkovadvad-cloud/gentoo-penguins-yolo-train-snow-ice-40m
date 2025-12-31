@@ -28,7 +28,7 @@ The imagery was collected using **DJI Air 2S** and **DJI Mavic 2** platforms at 
 
 > ⚠️ **Data availability**  
 > The annotated dataset is **not publicly released**.  
-> Access may be granted **upon reasonable request to the author** for research purposes.
+> Access may be granted **upon request to the author** for research purposes.
 
 ---
 
@@ -69,6 +69,7 @@ The current annotated dataset (1,048 individuals) is intended as a
 are expected to expand the snow–ice training dataset to approximately
 **10,000 annotated individuals**, enabling further refinement and validation
 of the detection models.
+
 
 
 
